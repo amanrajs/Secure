@@ -7,7 +7,9 @@ steps to run
 
 2) run the file secure.m
 
-3)this would train and then classify unrecognised persons in a created folder
+3) this would train and then classify unrecognised persons in a created folder
 
-4)run the python script mail.py to send a mail whenever a picture is added to unknown folder
+4) run the python script mail.py to send a mail whenever a picture is added to unknown folder.
+
+    enjoyy..
 
