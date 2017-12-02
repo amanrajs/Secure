@@ -1,5 +1,5 @@
 function imgOut = createStack(cellArrayOfImages,varargin)
-
+%for creating a stack of defined images for recognition
 narginchk(1,13)
 [thumbSize, montageSize, maintainAspectRatio, burnNames, textProperties, includePathnames, customLabels] = parseInputs(varargin{:});
 hasCVST = ~isempty(ver('vision'));
